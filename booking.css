@@ -91,7 +91,8 @@ body{
     width: auto;
     height: 580px;
     background-image: url(./img/background.png);
-    background-size: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 .seach{
     width: 1170px;
