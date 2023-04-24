@@ -153,6 +153,8 @@ body{
     border: 1px solid #4A4E54;
     border-radius: 8px;
     margin-right: 8px;
+    padding-top: 10px;
+    padding-left: 24px;
 }
 .seach .botS .in{
     width: 250px;
@@ -162,6 +164,8 @@ body{
     border: 1px solid #4A4E54;
     border-radius: 8px;
     margin-right: 8px;
+    padding-top: 10px;
+    padding-left: 24px;
 }
 .seach .botS .out{
     width: 250px;
@@ -170,6 +174,8 @@ body{
     opacity: 0.8;
     border: 1px solid #4A4E54;
     border-radius: 8px;
+    padding-top: 10px;
+    padding-left: 24px;
 }
 .seach .botS .arrow{
     width: 25px;
@@ -193,6 +199,12 @@ body{
     top: 105px;    
     background: #3B71FE;
     border-radius: 10px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 26px;   
+    color: #FFFFFF;
 }
 .Bigcontainer{
     background: #141416;
